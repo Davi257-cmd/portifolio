@@ -56,10 +56,10 @@ git push -u origin main
 
 ### vercel.json
 O arquivo `vercel.json` já está configurado com:
-- ✅ Cache para imagens estáticas
+- ✅ Cache para imagens estáticas (1 ano)
 - ✅ Headers de segurança
-- ✅ Roteamento para SPA
-- ✅ Compressão gzip
+- ✅ Rewrites para SPA (Single Page Application)
+- ✅ Configuração otimizada para React
 
 ### Estrutura de Pastas
 ```
